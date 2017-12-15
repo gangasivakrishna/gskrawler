@@ -1,0 +1,7 @@
+setup.py
+gskrawler/__init__.py
+gskrawler.egg-info/PKG-INFO
+gskrawler.egg-info/SOURCES.txt
+gskrawler.egg-info/dependency_links.txt
+gskrawler.egg-info/not-zip-safe
+gskrawler.egg-info/top_level.txt
